@@ -32,8 +32,8 @@ function App() {
       <h1 className='app__title'>
       </h1>
       <div className='app__img-container'>
-        <img className='app__img-letra' src="../public/img/letra.png" alt="" />
-        <img className='app__img' src="../public/img/1.png" alt="" />
+        <img className='app__img-letra' src="./img/letra.png" alt="" />
+        <img className='app__img' src="./img/1.png" alt="" />
       </div>
        <h1 className='app__text'>Escribe un numero entre el rango de   1 al 126</h1>
 
